@@ -1,0 +1,103 @@
+* {
+    box-sizing: border-box;
+    margin: auto;
+    font-family: 'Roboto','Open Sans', 'Helvetica Neue', sans-serif
+}
+
+body {
+    background-color: rgb(51, 51, 51);
+    color: white; 
+}
+
+.card {
+    margin: 16px auto;
+    width: 1000px;
+    text-align: center;
+}
+
+hr {
+    height: 1px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: chocolate;
+    border: none;
+}
+
+h1 {
+    text-decoration: underline;
+    border: 20px;
+    padding: 10px;
+    width:fit-content;
+    margin: auto;
+    font-size: 50px;
+    color: chocolate;
+    border: none;   
+}
+
+.first-image {
+    height: 250px;
+    margin-top: 10px;
+    outline: auto;
+    margin-bottom: 10px;   
+}
+
+.recipe {
+    border-radius: 20px;
+    outline: auto;
+    width: 350px;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.image-lasagna {
+    height: 60px;
+    outline: auto;
+    vertical-align: -20px;
+}
+
+a {
+    text-decoration-line: none;
+    font-size: 30px;
+    color: aliceblue;
+    display: inline-block;
+    margin-right: 10px;       
+}
+
+.image-pancake {
+    height: 60px;
+    outline: auto;
+    vertical-align: -20px;
+}
+
+.starter {
+    display: block;
+    margin: 10px auto;
+    width: 650px;
+    font-size: 25px;
+    outline: auto;
+    outline-style: dashed;
+    padding: 10px 20px;
+}
+
+li {
+    list-style: none;
+    margin: 5px;
+}
+
+ul ,ol {
+    padding: 20px;
+}
+
+.section {
+    box-sizing: border-box;
+    outline: 2px lawngreen;
+}
+
+h2 {
+    font-size: 30px;
+    color: bisque;
+}
+
+li, p {
+    font-size: 20px;
+}
